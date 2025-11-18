@@ -113,7 +113,7 @@ User clicked phishing email → successful login (trigger if results > 0)
 ## 📊 Dashboard Examples
 
 **Full Dashboard Overview**  
-![Full Dashboard](splunk-credential-compromise-lab/screenshoots/dashboard-credential-compromise.png)
+![Full Dashboard](./screenshoots/dashboard-credential-compromise.png)
 
 ---
 
@@ -127,7 +127,7 @@ Trigger: result count > 0, Frequency: every 15 minutes
 
 Screenshot of alert configuration:
 
-![Alert Configuration](splunk-credential-compromise-lab/screenshoots/alert-config.png)
+![Alert Configuration](./screenshoots/alert-config.png)
 
 ---
 
