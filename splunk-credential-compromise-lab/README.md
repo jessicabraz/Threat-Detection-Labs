@@ -50,7 +50,8 @@ index="portifolio_lab2" sourcetype="phish_emails" clicked=true
 index="portifolio_lab2" sourcetype="login_logs" username="jessicabraz"
 | table event_id, timestamp, username, src_ip, status, device
 ```
-![screenshot](splunk-credential-compromise-lab/screenshoots/events-jessica.png)
+![screenshot](./screenshoots/events-jessica.png)
+
 
 
 
